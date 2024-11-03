@@ -1,2 +1,2 @@
 # Assignment-Practice
-This is my assignment practice repo
+I am working on this repo for practicing my assignment.
